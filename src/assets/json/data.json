@@ -1,0 +1,17 @@
+{
+  "points": {
+    "max_good": 1,
+    "max_bad": 1
+  },
+  "records": [
+    {
+      "index": 0,
+      "date": "Sep 26, 2022",
+      "points": {
+        "good": 1,
+        "bad": 1
+      }
+    }
+  ],
+  "width": 288
+}

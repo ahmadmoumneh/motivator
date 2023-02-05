@@ -1,0 +1,14 @@
+body {
+  background: linear-gradient(45deg, lightblue, dodgerblue);
+  min-height: 100vh;
+  user-select: none;
+}
+
+.heading{
+  margin: 0;
+  padding: 2rem 0;
+  font-size: 3rem;
+  color: darkblue;
+  text-shadow: black 1px 1px;
+  text-align: center;
+}

@@ -1,0 +1,41 @@
+.incrementor {
+  height: 64px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  border-radius: 0.3rem;
+  margin: 0.1rem;
+  font-size: 2rem;
+  height: 48px;
+  width: 48px;
+  background: linear-gradient(45deg, lightblue, white);
+}
+
+.button:active {
+  background: linear-gradient(45deg, dodgerblue, white);
+}
+
+.button:hover {
+  cursor: pointer;
+}
+
+.good, .bad {
+  margin: 1rem;
+  min-width: 60px;
+  text-align: center;
+}
+
+.good, .good-button {
+  color: midnightblue
+}
+
+.bad, .bad-button {
+  color: darkred
+}
